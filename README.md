@@ -63,5 +63,17 @@ _Technical support_
 - Website configuration on Linux servers
 
 
+## Certified
+
+`2021`  _LPIC-1 Linux Admnistrador_
 
 
+## Languages
+
+__English__ - Intermediate
+
+
+## Other Information
+
+- Python programming tutor at college
+- Speaker at Campus Party on Opensearch [[lecture repository](https://github.com/thaycafe/opensearch_lab_CPGO)]
