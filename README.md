@@ -31,7 +31,19 @@ Passionate about Linux and coffee. I work as a Devops at 4linux I am an instruct
 
 ## Occupation
 
-`June 2022 - now`
+`Jan 2023 - now`
+
+__Certi__,   
+_Devops Engineer_
+
+Responsible for all devops processes of applications such as: creation of CI/CD pipelines using Bitbucket, unit tests, management and deployment of application images on AWS and monitoring. All applications are from the BIM project by Certi with Petrobras.
+
+Key Technologies: Linux, AWS, BitBucket, CI/CD, Docker, Scrum, Kubernetes.
+
+
+
+`September 2020 - December 2022`
+
 __4linux__,   
 _Devops Analyst_
 
@@ -45,6 +57,7 @@ IT consultant
 Instructor
  - Agile Infrastructure and Devops practices Course
  - Elastic Stack Specialist Course
+
 
 
 `January 2020 - September 2020`
@@ -70,7 +83,7 @@ _Technical support_
 
 ## Languages
 
-__English__ - Intermediate
+__English__ - Advanced
 
 
 ## Other Information
