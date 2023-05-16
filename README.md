@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 ## Currently 
 
-Passionate about Linux and coffee. I work as a Devops at 4linux I am an instructor of the courses: Agile Infrastructure with DevOps Practices and Elastic Stack Specialist.
+
+Graduated in Computer Science. Passionate about Linux and coffee. I worked in the area of back-end development with the Python language and I work as a Devops Engineer at Certi in partnership with Petrobras, I have the LPIC-1 certification and I am an instructor of the courses: Agile Infrastructure with DevOps Practices and Elastic Stack Specialist.
 
 ## Education
 
