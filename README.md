@@ -4,6 +4,7 @@ Linux Enthusiast | Devops Analyst
 | __E-Mail__   | [thaynaramendss@gmail.com](mailto:thaynaramendss@gmail.com)              | 
 | __Dev.to__   | [dev.to/thaycafe](https://dev.to/thaycafe)                               |
 | __LinkedIn__ | [linkedin.com/in/thaynaramendss/](https://www.linkedin.com/in/thaynaramendss)|
+| __CV__ | [thaycafe.github.io](https://thaycafe.github.io/cv/)|
 
 <!--
 **thaycafe/thaycafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,51 +31,19 @@ Graduated in Computer Science. Passionate about Linux and coffee. I worked in th
 `2016-2019` - Computer Science, UniCEUB
 
 
-## Occupation
+## Professional activities
 
-`Jan 2023 - now`
+`Fev 2024 - now`
 
-__Certi__,   
+__Critical Tech Works__,   
 _Devops Engineer_
 
-Responsible for all devops processes of applications such as: creation of CI/CD pipelines using Bitbucket, unit tests, management and deployment of application images on AWS and monitoring. All applications are from the BIM project by Certi with Petrobras.
+- Manage AWS infrastructure with terraform
+- Development with Python and Shell script
+- Security management
 
-Key Technologies: Linux, AWS, BitBucket, CI/CD, Docker, Scrum, Kubernetes.
+Key Technologies: Linux, AWS, CI/CD, Docker, Scrum, Terraform.
 
-
-
-`September 2020 - December 2022`
-
-__4linux__,   
-_Devops Analyst_
-
-IT consultant
- - Configuration management with Ansible and AWX
- - Consultancy on monitoring projects with Prometheus and Grafana
- - Consulting on log monitoring projects with ELG and ELK stack
- - Consulting on projects using Elastic Stack
- - Consulting projects using Kubernetes
-
-Instructor
- - Agile Infrastructure and Devops practices Course
- - Elastic Stack Specialist Course
-
-
-
-`January 2020 - September 2020`
-__Configr__
-_Python development_
-
-- Backend development in Python language
-
-
-`August 2019 - January 2020`
-__Configr__
-_Technical support_
-
-- Migration Support
-- Ticket service from the migration team
-- Website configuration on Linux servers
 
 
 ## Certified
@@ -84,7 +53,8 @@ _Technical support_
 
 ## Languages
 
-__English__ - Advanced
+__English__ - B1
+__Portuguese__ - Native
 
 
 ## Other Information
